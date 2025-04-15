@@ -2,6 +2,36 @@
 
 <h1 align="center">Hi 👋, I'm Khaled Mohamed</h1>
 <h3 align="center">A Full Stack Developer From Egypt</h3>
+## 💼 Work
+
+- 🛠️ I’m currently working on:  
+  ASP.NET Core backend projects using **Entity Framework**, **SQL Server**, and **clean architecture** [🔗 Projects coming soon]
+
+- 🤝 I’m looking to collaborate on:  
+  Open-source or freelance **ASP.NET Core Web API** or **Blazor** applications
+
+- 🙋‍♂️ I’m looking for help with:  
+  Writing efficient LINQ queries and optimizing large **.NET** applications
+
+- 🌱 I’m currently learning:  
+  Advanced **ASP.NET Core**, **Clean Architecture**, **DDD**, **Unit Testing**, and **Azure Deployment**
+
+- 💬 Ask me about:  
+  **C#**, **.NET 6+**, **Entity Framework**, **SQL**, **REST APIs**, **Repository & Service Patterns**
+
+- 📫 How to reach me:  
+  📧 khaled_mohamed9876@yahoo.com
+
+
+- ✍️ I regularly write articles on:  
+  *(Coming soon)* Dev.to or Medium about **.NET tips & backend architecture**
+
+- 🧾 Know about my experiences:  
+  [Resume]((https://drive.google.com/file/d/1rZju-Y5vRT7r7vVhOX1t3lUlRMDmpwtA/view?usp=sharing))
+
+- ⚡ Fun fact:  
+  I refactor code in my sleep 😄
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khaledmo77&label=Profile%20views&color=0e75b6&style=flat" alt="khaledmo77" /> </p>
 
