@@ -1,45 +1,25 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Khaled Mohamed</h1>
 <h3 align="center">A Full Stack Developer From Egypt</h3>
-## 💼 Work
-
-- 🛠️ I’m currently working on:  
-  ASP.NET Core backend projects using **Entity Framework**, **SQL Server**, and **clean architecture** [🔗 Projects coming soon]
-
-- 🤝 I’m looking to collaborate on:  
-  Open-source or freelance **ASP.NET Core Web API** or **Blazor** applications
-
-- 🙋‍♂️ I’m looking for help with:  
-  Writing efficient LINQ queries and optimizing large **.NET** applications
-
-- 🌱 I’m currently learning:  
-  Advanced **ASP.NET Core**, **Clean Architecture**, **DDD**, **Unit Testing**, and **Azure Deployment**
-
-- 💬 Ask me about:  
-  **C#**, **.NET 6+**, **Entity Framework**, **SQL**, **REST APIs**, **Repository & Service Patterns**
-
-- 📫 How to reach me:  
-  📧 khaled_mohamed9876@yahoo.com
-
-
-- ✍️ I regularly write articles on:  
-  *(Coming soon)* Dev.to or Medium about **.NET tips & backend architecture**
-
-- 🧾 Know about my experiences:  
-  [Resume]((https://drive.google.com/file/d/1rZju-Y5vRT7r7vVhOX1t3lUlRMDmpwtA/view?usp=sharing))
-
-- ⚡ Fun fact:  
-  I refactor code in my sleep 😄
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khaledmo77&label=Profile%20views&color=0e75b6&style=flat" alt="khaledmo77" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khaledmo77" alt="khaledmo77" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/khaledmo77" target="blank"><img src="https://img.shields.io/twitter/follow/khaledmo77?logo=twitter&style=for-the-badge" alt="khaledmo77" /></a> </p>
 
+- 🔭 I’m currently working on **ASP.NET Core backend projects using **Entity Framework**, **SQL Server**, and **clean architecture** [🔗 Projects coming soon]**
+
+- 🌱 I’m currently learning **Advanced **ASP.NET Core**, **Clean Architecture**, **DDD**, **Unit Testing**, and **Azure Deployment****
+
+- 👯 I’m looking to collaborate on **Open-source or freelance **ASP.NET Core Web API** or **Blazor** applications**
+
+- 🤝 I’m looking for help with **Writing efficient LINQ queries and optimizing large **.NET** applications**
+
+- 📝 I regularly write articles on [*(Coming soon)* Dev.to or Medium about **.NET tips & backend architecture**](*(Coming soon)* Dev.to or Medium about **.NET tips & backend architecture**)
+
+- 💬 Ask me about ****C#**, **.NET 6+**, **Entity Framework**, **SQL**, **REST APIs**, **Repository & Service Patterns****
+
 - 📫 How to reach me **khaled_mohamed9876@yahoo.com**
+
+- 📄 Know about my experiences [[Resume]((https://drive.google.com/file/d/1rZju-Y5vRT7r7vVhOX1t3lUlRMDmpwtA/view?usp=sharing))]([Resume]((https://drive.google.com/file/d/1rZju-Y5vRT7r7vVhOX1t3lUlRMDmpwtA/view?usp=sharing)))
+
+- ⚡ Fun fact **I refactor code in my sleep 😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
